@@ -6,6 +6,9 @@ Link: [https://netflix-clone-a4b53.web.app/](https://netflix-clone-a4b53.web.app
 ## Watch A Turorial By Clicking On This Link
 [![Netflix Clone](screenshots/main_page.png)](https://www.youtube.com/watch?v=svEFW9gLU2E "Netflix Clone")
 
+## Watch A Turorial By Clicking On This Link
+[![Netflix Clone](screenshots/video_page.png)](https://www.youtube.com/watch?v=svEFW9gLU2E "Netflix Clone")
+
 ## Available Scripts
 
 In the project directory, you can run:
