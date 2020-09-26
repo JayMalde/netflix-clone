@@ -1,9 +1,9 @@
 # Netflix Clone
 A simple netflix clone
 
-1. tmdb api
-2. 
-3. 
+1. TMDB (for fetching data)
+2. react-youtube (for viewing videos)
+3. movie-trailers (for searching for trailers)
 
 ## Demo
 Link: [https://netflix-clone-a4b53.web.app/](https://netflix-clone-a4b53.web.app/)
