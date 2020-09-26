@@ -1,4 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Netflix Clone
+A simple netflix clone
+
+1. tmdb api
+2. 
+3. 
 
 ## Demo
 Link: [https://netflix-clone-a4b53.web.app/](https://netflix-clone-a4b53.web.app/)
