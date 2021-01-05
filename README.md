@@ -9,10 +9,10 @@ A simple netflix clone
 Link: [https://netflix-clone-a4b53.web.app/](https://netflix-clone-a4b53.web.app/)
 
 ## Watch A Turorial By Clicking On This Link
-[![Netflix Clone](screenshots/main_page.png)](https://www.youtube.com/watch?v=svEFW9gLU2E "Netflix Clone")
+[![Netflix Clone](screenshots/main_page.png)](https://www.youtube.com/watch?v=5tOA66yX-ZU "Netflix Clone")
 
 ## Watch A Turorial By Clicking On This Link
-[![Netflix Clone](screenshots/video_page.png)](https://www.youtube.com/watch?v=svEFW9gLU2E "Netflix Clone")
+[![Netflix Clone](screenshots/video_page.png)](https://www.youtube.com/watch?v=5tOA66yX-ZU "Netflix Clone")
 
 ## Available Scripts
 
